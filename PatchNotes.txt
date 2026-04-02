@@ -1,1 +1,19 @@
-Placeholder
+===================================================
+               RLM THE FUTURE
+            PATCH NOTES - V0.4.5B
+===================================================
+[+] MAJOR UPGRADES & NEW TOOLS
+- [NEW TOOL] Discord Webhook Toolkit: Added ability to send custom payload messages to webhooks anonymously, or permanently Nuke (DELETE) intercepted webhooks.
+- [NEW TOOL] Roblox OSINT Tracker: Pull live hidden API data (Exact UserID, Account Age, Ban Status, Display Name) from any Roblox username.
+- [NEW TOOL] Username Tracker: Rapidly scans across GitHub, TikTok, Roblox, TryHackMe, and Steam to see where targets hold accounts.
+- [NEW TOOL] Subdomain Scanner: Penetration testing tool that queries certificate logs to extract up to 25 hidden developer subdomains on any target website.
+[+] UI / UX ENHANCEMENTS
+- [NEW] Sleek Terminal Animations: Added a custom dynamic typing animation. Text in the terminal tools now types out smoothly character-by-character instead of appearing instantly.
+- [REMOVED] Fast Boot Option has been removed in favor of a smoother, stabilized loading sequence overlay. 
+- [EXPANDED] Tools Menu UI: The Tools menu has been completely visually restructured into a clean 3x10 grid to fit the new massive arsenal of tools without clutter.
+[~] SYSTEM CHANGES
+- Switched default update architecture to pull standalone .exe builds instead of raw source code, making updates significantly more straightforward.
+- Background GitHub connection timeouts increased slightly to ensure stable checks for those with slower networks.
+===================================================
+   RLM V0.4.5B - The Future is Now. Enjoy. 
+===================================================
