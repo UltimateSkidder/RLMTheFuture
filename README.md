@@ -93,10 +93,9 @@ Major UI update with improved layout, multiple screens, and refined structure.
 
 
 ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧
-
-![Security](https://img.shields.io/badge/security-safe-brightgreen)
-
 ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧
+✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧
+
 
 ## ★ UI Improvements
 Loading Screen — New block-art RLM logo + animated progress bar with percentage counter
