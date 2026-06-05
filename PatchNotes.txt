@@ -1,19 +1,104 @@
-===================================================
-               RLM THE FUTURE
-            PATCH NOTES - V0.4.5B
-===================================================
-[+] MAJOR UPGRADES & NEW TOOLS
-- [NEW TOOL] Discord Webhook Toolkit: Added ability to send custom payload messages to webhooks anonymously, or permanently Nuke (DELETE) intercepted webhooks.
-- [NEW TOOL] Roblox OSINT Tracker: Pull live hidden API data (Exact UserID, Account Age, Ban Status, Display Name) from any Roblox username.
-- [NEW TOOL] Username Tracker: Rapidly scans across GitHub, TikTok, Roblox, TryHackMe, and Steam to see where targets hold accounts.
-- [NEW TOOL] Subdomain Scanner: Penetration testing tool that queries certificate logs to extract up to 25 hidden developer subdomains on any target website.
-[+] UI / UX ENHANCEMENTS
-- [NEW] Sleek Terminal Animations: Added a custom dynamic typing animation. Text in the terminal tools now types out smoothly character-by-character instead of appearing instantly.
-- [REMOVED] Fast Boot Option has been removed in favor of a smoother, stabilized loading sequence overlay. 
-- [EXPANDED] Tools Menu UI: The Tools menu has been completely visually restructured into a clean 3x10 grid to fit the new massive arsenal of tools without clutter.
-[~] SYSTEM CHANGES
-- Switched default update architecture to pull standalone .exe builds instead of raw source code, making updates significantly more straightforward.
-- Background GitHub connection timeouts increased slightly to ensure stable checks for those with slower networks.
-===================================================
-   RLM V0.4.5B - The Future is Now. Enjoy. 
-===================================================
+RLM – The Future v0.5.0 Patch Notes
+IMPORTANT
+
+Major release — 6 new tools, new theme, redesigned UI components, and all missing frames restored.
+
+★ 6 New Tools
+16. WiFi Network Scanner
+Scans nearby WiFi access points using netsh wlan show networks
+Displays SSID, BSSID, signal strength, authentication & encryption
+Color-coded output (SSIDs in cyan, signal in green, auth in yellow, BSSIDs in purple)
+Show Saved Profiles button lists all stored WiFi configurations
+17. Hash Identifier & Cracker
+Identify — Detects hash algorithm by length/format (MD5, SHA-1, SHA-256, SHA-512, bcrypt, Unix crypt variants)
+Crack — Built-in 40+ word dictionary attack against MD5/SHA-1/SHA-256/SHA-512
+Generate — Hash any plaintext into MD5, SHA-1, SHA-256, and SHA-512 simultaneously
+Shows detailed analysis: length, hex validation, algorithm probability
+18. HTTP Header Analyzer
+Sends a HEAD request and displays all response headers
+Security Audit — Checks for 6 critical security headers:
+Strict-Transport-Security
+Content-Security-Policy
+X-Frame-Options
+X-Content-Type-Options
+X-XSS-Protection
+Referrer-Policy
+Rates security score as EXCELLENT / MODERATE / POOR
+19. Whois Lookup
+Domain registration data via RDAP protocol
+Shows: registrar, creation/expiry dates, nameservers, status codes
+Falls back to who.is browser if RDAP unavailable
+Auto-strips https:// prefixes from user input
+20. SSL Certificate Inspector
+Connects to port 443 and pulls the full TLS certificate
+Displays: protocol version, cipher suite, cipher bit strength
+Shows subject CN/O, issuer CN/O, validity dates, serial number
+Lists all Subject Alternative Names (SANs)
+Expiry check — Warns if certificate expires within 30 days or is already expired
+Calculates remaining valid days
+21. Password Generator
+Generates cryptographically secure passwords using random.SystemRandom()
+Configurable: length (4-128), count (1-20), character sets (upper, lower, digits, symbols)
+Shows entropy estimate per password
+Strength Tester — Analyzes any password for:
+Length score
+Character variety (4 categories)
+Common password detection
+Sequential/repeated character detection
+Visual meter bar [████████░░░░]
+Rating: CRITICAL → WEAK → MODERATE → STRONG → EXCELLENT
+★ New Theme
+Theme	Palette
+Arctic Storm (Frost)	Icy blues, soft frost whites, muted cyan accents
+Total themes now: 7 (Default Purple, Matrix, Midnight, Cyberpunk, Blood Moon, Oceanic, Arctic Storm)
+
+★ UI Improvements
+Loading Screen — New block-art RLM logo + animated progress bar with percentage counter
+Loading Steps — Expanded from 8 to 10 boot steps (includes new scanner/crypto module messages)
+Tools Page — Category labels at top: NETWORK │ OSINT │ CRYPTO/UTIL │ NEW v0.5
+Tools Page — New tools marked with ★ indicator and colored red for visibility
+Help Page — Completely redesigned with boxed header, categorized command index, and animated output
+Main Menu — Shows 21 Tools Available in version label
+Window Size — Increased from 900×620 to 960×660 for better tool grid layout
+Patch Notes — Local fallback when remote fetch fails (shows v0.5 notes offline)
+★ Restored Frames
+These frames were referenced in v0.4.8A's _build_frames but had no implementations — now fully built:
+
+#	Tool	Description
+10	Phone OSINT	Country code detection, format validation, browser search
+11	Email OSINT	MX record lookup, provider detection, disposable check
+12	MAC OSINT	OUI vendor lookup via macvendors.com API
+13	GeoIP OSINT	Full geolocation via ip-api.com (country, city, ISP, coords)
+14	Roblox Group	Group info, member count, owner, description
+15	Roblox Game	Universe details, visits, players, creator info
+★ Technical Changes
+Added imports: hashlib, ssl, re, random, string
+Version bumped: 0.4.8A → 0.5.0
+Window title updated to include version
+Tool mapping in terminal expanded to cover tools 16-21
+Info dialog updated with full v0.5 tool listing
+Full Tool Index (v0.5.0)
+
+ #  │ Tool               │ Category     │ Status
+────┼────────────────────┼──────────────┼────────
+ 1  │ DNS Lookup          │ Network      │ ●
+ 2  │ Port Scanner        │ Network      │ ●
+ 3  │ IP Lookup           │ Network      │ ●
+ 4  │ Angry IP Scanner    │ Network      │ ●
+ 5  │ Wireshark CLI       │ Network      │ ●
+ 6  │ Discord Webhook     │ OSINT        │ ●
+ 7  │ Roblox Player       │ OSINT        │ ●
+ 8  │ Subdomain Scan      │ Network      │ ●
+ 9  │ Username Tracker    │ OSINT        │ ●
+10  │ Phone OSINT         │ OSINT        │ ★ Restored
+11  │ Email OSINT         │ OSINT        │ ★ Restored
+12  │ MAC OSINT           │ OSINT        │ ★ Restored
+13  │ GeoIP OSINT         │ OSINT        │ ★ Restored
+14  │ Roblox Group        │ OSINT        │ ★ Restored
+15  │ Roblox Game         │ OSINT        │ ★ Restored
+16  │ WiFi Scanner        │ Network      │ ★ NEW
+17  │ Hash Cracker        │ Crypto       │ ★ NEW
+18  │ HTTP Headers        │ Network      │ ★ NEW
+19  │ Whois Lookup        │ OSINT        │ ★ NEW
+20  │ SSL Inspector       │ Crypto       │ ★ NEW
+21  │ Password Generator  │ Utility      │ ★ NEW
