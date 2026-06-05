@@ -2,12 +2,14 @@
 
 This tool is for educational purposes only.
 Do not use it on networks or systems you do not own or have permission to test.
- Contributing  🤝  My pc and my old RLM future on batch 🤝 
+
+
+## Contributing  🤝  My pc and my old RLM future on batch 🤝 
 
 
 ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧
 
-# 🔥 RLMTheFutureV0.5 README 
+### 🔥 RLMTheFutureV0.5 README 
 
 ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧
 
@@ -50,8 +52,10 @@ Short explanation:RLM is a multi functional tool for every aspect of pc engineer
 
 ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧
 
-🧠 Version History
-🧊 RLM 0.4.0
+## 🧠 Version History
+
+
+# 🧊 RLM 0.4.0
 
 Basic early-stage interface and foundational tools.
 
@@ -59,7 +63,7 @@ Basic early-stage interface and foundational tools.
 
 ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧
 
-⚡ RLM 0.4.8
+#⚡ RLM 0.4.8
 
 Improved layout, better structure, more stable UI flow.
 
@@ -93,7 +97,7 @@ Major UI update with improved layout, multiple screens, and refined structure.
 
 ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧
 
-★ UI Improvements
+# ★ UI Improvements
 Loading Screen — New block-art RLM logo + animated progress bar with percentage counter
 Loading Steps — Expanded from 8 to 10 boot steps (includes new scanner/crypto module messages)
 Tools Page — Category labels at top: NETWORK │ OSINT │ CRYPTO/UTIL │ NEW v0.5
@@ -108,12 +112,12 @@ These frames were referenced in v0.4.8A's _build_frames but had no implementatio
 
 ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧
 
-⭐ Notes
+# ⭐ Notes
 
 This project is actively evolving through multiple versions.
 UI, structure, and features may change significantly between releases.
 
-⚠️ Disclaimer
+# ⚠️ Disclaimer
 
 This tool is intended for educational and authorized testing purposes only.
 Do not use it on networks or systems you do not own or have permission to test. winky face
