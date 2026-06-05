@@ -1,11 +1,9 @@
- ![Version](https://img.shields.io/badge/version-0.5.0-red)
 ## ⚠️ Disclaimer
 
 This tool is for educational purposes only.
 Do not use it on networks or systems you do not own or have permission to test.
  Contributing  🤝  My pc and my old RLM future on batch 🤝 
 
- ![Release](https://img.shields.io/badge/release-stable-green)
 
 ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧
 
@@ -17,7 +15,8 @@ A futuristic multi-tool for network analysis, scripting, and system utilities wi
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Status](https://img.shields.io/badge/status-active-success)
 ![License](https://img.shields.io/badge/license-MIT-green)
-
+![Version](https://img.shields.io/badge/version-0.5.0-red)
+![Release](https://img.shields.io/badge/release-stable-green)
 
 Short explanation:RLM is a multi functional tool for every aspect of pc engineering so you can be a skid and act harmful It includes tools like DNS lookup, port scanning, IP analysis, and integrations with software like Wireshark and Angry IP Scanner and so much more. 
 
@@ -53,12 +52,11 @@ Short explanation:RLM is a multi functional tool for every aspect of pc engineer
 ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧
 
 
- _______     _____     ____    ____  
-|_   __ \   |_   _|   |_   \  /   _| 
-  | |__) |    | |       |   \/   |   
-  |  __ /     | |   _   | |\  /| |   
- _| |  \ \_  _| |__/ | _| |_\/_| |_  
-|____| |___||________||_____||_____| 
+█████   ██      ██   ██
+██  ██  ██      ███ ███
+█████   ██      ██ █ ██
+██ ██   ██      ██   ██
+██  ██  ██████  ██   ██
 
                                     
 ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦
@@ -132,4 +130,5 @@ UI, structure, and features may change significantly between releases.
 
 This tool is intended for educational and authorized testing purposes only.
 Do not use it on networks or systems you do not own or have permission to test. winky face
-                                                                                                                                                                                                                                                                                                                                                                                                                                                        ▁ ▂ ▃ ▄ ▅ ▆ ▇ █ ▇ ▆ ▅ ▄ ▃ ▂ ▁                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                
+
+▁ ▂ ▃ ▄ ▅ ▆ ▇ █ ▇ ▆ ▅ ▄ ▃ ▂ ▁   
