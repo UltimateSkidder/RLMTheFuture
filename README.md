@@ -48,30 +48,7 @@ Short explanation:RLM is a multi functional tool for every aspect of pc engineer
 |20  | SSL Inspector      | Crypto   | ★ NEW       |
 |21  | Password Generator | Utility  | ★ NEW       |
 
-
 ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧
-
-RRRRRRRRRRRRRRRRR   LLLLLLLLLLL             MMMMMMMM               MMMMMMMM
-R::::::::::::::::R  L:::::::::L             M:::::::M             M:::::::M
-R::::::RRRRRR:::::R L:::::::::L             M::::::::M           M::::::::M
-RR:::::R     R:::::RLL:::::::LL             M:::::::::M         M:::::::::M
-  R::::R     R:::::R  L:::::L               M::::::::::M       M::::::::::M
-  R::::R     R:::::R  L:::::L               M:::::::::::M     M:::::::::::M
-  R::::RRRRRR:::::R   L:::::L               M:::::::M::::M   M::::M:::::::M
-  R:::::::::::::RR    L:::::L               M::::::M M::::M M::::M M::::::M
-  R::::RRRRRR:::::R   L:::::L               M::::::M  M::::M::::M  M::::::M
-  R::::R     R:::::R  L:::::L               M::::::M   M:::::::M   M::::::M
-  R::::R     R:::::R  L:::::L               M::::::M    M:::::M    M::::::M
-  R::::R     R:::::R  L:::::L         LLLLLLM::::::M     MMMMM     M::::::M
-RR:::::R     R:::::RLL:::::::LLLLLLLLL:::::LM::::::M               M::::::M
-R::::::R     R:::::RL::::::::::::::::::::::LM::::::M               M::::::M
-R::::::R     R:::::RL::::::::::::::::::::::LM::::::M               M::::::M
-RRRRRRRR     RRRRRRRLLLLLLLLLLLLLLLLLLLLLLLLMMMMMMMM               MMMMMMMM
-
-
-✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦
-
-
 
 🧠 Version History
 🧊 RLM 0.4.0
