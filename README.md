@@ -93,8 +93,6 @@ Major UI update with improved layout, multiple screens, and refined structure.
 
 
 ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧
-✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧
-✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧
 
 
 ## ★ UI Improvements
