@@ -64,7 +64,7 @@ Basic early-stage interface and foundational tools.
 
 ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧
 
-##⚡ RLM 0.4.8
+## 🔥RLM 0.4.8
 
 Improved layout, better structure, more stable UI flow.
 
