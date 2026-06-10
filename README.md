@@ -3,18 +3,18 @@
 This tool is for educational purposes only.
 Do not use it on networks or systems you do not own or have permission to test.
 
-✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧
+
 
 ## Contributing  🤝  My pc and my old RLM future on batch 🤝 
 
 
-✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧
+
 
 # 🔥 RLMTheFutureV0.5 README 
 
-✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧
 
-A futuristic multi-tool for network analysis, scripting, and system utilities with a clean UI and powerful features.
+
+A futuristic neon lights bradar bradaar multi-tool for network analysis, scripting, and system utilities with a clean UI and powerful features.
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
 ![Status](https://img.shields.io/badge/status-active-success)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -23,7 +23,7 @@ A futuristic multi-tool for network analysis, scripting, and system utilities wi
 
 Short explanation:RLM is a multi functional tool for every aspect of pc engineering so you can be a skid and act harmful It includes tools like DNS lookup, port scanning, IP analysis, and integrations with software like Wireshark and Angry IP Scanner and so much more. 
 
-✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧
+
 
 ## 🔧 Tool List
 
@@ -62,7 +62,7 @@ Basic early-stage interface and foundational tools.
 
 <p align="center"> <img src="https://raw.githubusercontent.com/UltimateSkidder/RLMfuturepictures/main/RLM%200.4.0%20PICTURES/Skjermbilde%202026-06-05%20231638.png" width="70%"> </p>
 
-✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧
+
 
 ## 🔥RLM 0.4.8
 
@@ -71,7 +71,7 @@ Improved layout, better structure, more stable UI flow.
 <p align="center"> <img src="https://raw.githubusercontent.com/UltimateSkidder/RLMfuturepictures/main/RLM%200.4.5%20Pictures/Skjermbilde%202026-06-05%20231726.png" width="70%"> </p>
 
 
-✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧
+
 
 # 🚀 RLM 0.5.0 (Current)
 
@@ -92,7 +92,7 @@ Major UI update with improved layout, multiple screens, and refined structure.
 </p>
 
 
-✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧
+
 
 
 ## ★ UI Improvements
@@ -108,7 +108,7 @@ Patch Notes — Local fallback when remote fetch fails (shows v0.5 notes offline
 These frames were referenced in v0.4.8A's _build_frames but had no implementations — now fully built:
 
 
-✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧ ✦ ✧
+
 
 ## ⭐ Notes
 
